@@ -1,2 +1,2 @@
 #!/bin/bash
-/tmp/0x02/list | sort | uniq
+/tmp/0x02/list_1 | sort | uniq

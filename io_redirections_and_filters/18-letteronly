@@ -1,2 +1,2 @@
 #!/bin/bash
-grep -w /etc/ssh/ssh_config
+grep -e [A-Z] /etc/ssh/ssh_config

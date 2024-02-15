@@ -68,3 +68,12 @@ reverse its input.
 
 22-users_and_homes
 displays all users and their home directories, sorted by users. Based on the the /etc/passwd file.
+
+23-empty_casks
+finds all empty files and directories in the current directory and all sub-directories.Only the names of the files and directories should be displayed (not the entire path) Hidden files should be listed. One file name per line
+
+24-gifs
+lists all the files with a .gif extension in the current directory and all its sub-directories.Only regular files (not directories) should be listed. The names of the files should be displayed without their extensions. The files should be sorted by byte values, but case-insensitive.
+
+25-acrostic
+decodes acrostics that use the first letter of each line.
